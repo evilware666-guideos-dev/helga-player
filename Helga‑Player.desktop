@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Helga‑Player
+GenericName=Musikplayer
+Comment=Moderner GTK4‑Musikplayer mit GStreamer‑Backend, Equalizer, Smart‑Playlists und Cover‑Download
+Exec=/usr/bin/helga-player
+Icon=helga-player
+Categories=AudioVideo;Player;Music;Utility;
+Terminal=false
+StartupNotify=true
+Keywords=Musik;Player;Audio;MP3;FLAC;OGG;GStreamer;Equalizer;Playlist;Helga;GuideOS;
+

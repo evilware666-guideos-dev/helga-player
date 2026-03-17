@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>helga-player.desktop</id>
+  <name>Helga‑Player</name>
+  <summary>Moderner GTK4‑Musikplayer mit GStreamer‑Backend, Equalizer und Smart‑Playlists</summary>
+
+  <description>
+    <p>
+      Helga ist ein moderner, vollständig GTK4‑basierter Musikplayer mit
+      automatischer Theme‑Erkennung, GStreamer‑Backend, Cover‑Download,
+      Smart‑Playlists, Equalizer, Crossfade, Visualizer und umfangreicher
+      Metadaten‑Unterstützung.
+    </p>
+
+    <p>Hauptfunktionen:</p>
+    <ul>
+      <li>Automatische Erkennung des System‑Themes (Hell/Dunkel)</li>
+      <li>GStreamer‑Backend mit Equalizer, Spectrum‑Visualizer & Fade‑Control</li>
+      <li>Unterstützung aller gängigen Audioformate (MP3, OGG, FLAC, AAC, M4A, OPUS, WAV, WMA, APE, ALAC, MP4, WEBM, MKA)</li>
+      <li>Intelligente Playlists (Most Played, Never Played, Favorites, Genres, Jahrzehnte, Recently Added uvm.)</li>
+      <li>Automatischer Cover‑Download (MusicBrainz + iTunes)</li>
+      <li>Metadaten‑Reparatur (Mojibake‑Fix für fehlerhafte ID3‑Tags)</li>
+      <li>Persistente Konfiguration & Cover‑Cache</li>
+      <li>Lautstärke‑Fading (Ein‑/Ausblenden) mit wählbaren Kurven</li>
+      <li>Shuffle, Repeat, History, Rating‑System</li>
+    </ul>
+  </description>
+
+  <launchable type="desktop-id">helga-player.desktop</launchable>
+
+  <categories>
+    <category>AudioVideo</category>
+    <category>Player</category>
+    <category>Music</category>
+    <category>Utility</category>
+  </categories>
+
+  <keywords>
+    <keyword>Musik</keyword>
+    <keyword>Player</keyword>
+    <keyword>Audio</keyword>
+    <keyword>MP3</keyword>
+    <keyword>FLAC</keyword>
+    <keyword>OGG</keyword>
+    <keyword>GStreamer</keyword>
+    <keyword>Equalizer</keyword>
+    <keyword>Playlist</keyword>
+    <keyword>Helga</keyword>
+    <keyword>GuideOS</keyword>
+  </keywords>
+
+  <developer_name>evilware666 &amp; Helga</developer_name>
+  <project_license>MIT</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+
+  <releases>
+    <release version="1.0" date="2026-01-01">
+      <description>
+        <p>Erste stabile Version des Helga‑Players.</p>
+      </description>
+    </release>
+  </releases>
+
+  <screenshots>
+    <screenshot type="default">
+      <image>https://example.com/helga-player-main.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://example.com/helga-player-eq.png</image>
+    </screenshot>
+  </screenshots>
+</component>
+
