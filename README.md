@@ -10,7 +10,7 @@ Version: 2.0
 MIT License  
 
 
-
+Helga-Player Module
 - Musik‑Player  
 - Radio‑Player  
 - Hörbuch‑Player  
@@ -22,10 +22,6 @@ MIT License
 - System‑Theme‑Integration  
 - Abhängigkeits‑Installer  
 - uvm.
-
-Ich schreibe sie so, dass sie **direkt in GitHub** perfekt aussieht.
-
----
 
 # 📀 **Helga – System‑Theme aware GTK4 Music, Radio & Audiobook Player**  
 Ein moderner, funktionsreicher Audio‑Player für Linux  
