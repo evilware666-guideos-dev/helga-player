@@ -1,30 +1,5 @@
 README – Helga Music Player (GTK4)
 
-Überblick
-Helga ist ein funktionsreicher, vollständig in GTK4 entwickelter Musikplayer für Linux.
-Er integriert sich automatisch in das System‑Theme, nutzt GStreamer für Audio‑Wiedergabe und bietet intelligente Playlists, Cover‑Download, Equalizer, Fade‑Effekte und eine moderne Oberfläche.
-
-Entwickler: evilware666 & Helga
-Version: 2.0
-MIT License  
-
-
-Helga-Player Module
-- Musik‑Player  
-- Radio‑Player  
-- Hörbuch‑Player  
-- Hörspiel‑Player  
-- Smart‑Playlist‑Generator  
-- Cover‑Downloader  
-- Equalizer  
-- Fade‑In/Fade‑Out  
-- System‑Theme‑Integration  
-- Abhängigkeits‑Installer  
-- uvm.
-
-# 📀 **Helga – System‑Theme aware GTK4 Music, Radio & Audiobook Player**  
-Ein moderner, funktionsreicher Audio‑Player für Linux  
-*(GTK4 • GStreamer • System‑Theme‑Integration • Smart Playlists)*
 
 Helga ist ein vollständig in Python entwickelter, system‑theme‑sensitiver Audio‑Player, der Musik, Radio‑Streams, Hörbücher und Hörspiele in einer einzigen, eleganten GTK4‑Oberfläche vereint.  
 Er ist optimiert für Linux‑Desktop‑Umgebungen wie GNOME, Cinnamon, KDE Plasma und XFCE.
