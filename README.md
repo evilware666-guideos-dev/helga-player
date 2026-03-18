@@ -1,5 +1,4 @@
 README – Helga Music Player (GTK4)
-Ein moderner, system‑theme‑sensitiver Musikplayer für Linux
 
 Überblick
 Helga ist ein funktionsreicher, vollständig in GTK4 entwickelter Musikplayer für Linux.
