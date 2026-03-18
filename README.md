@@ -177,7 +177,7 @@ Diese Daten werden für Smart‑Playlists genutzt.
 
 ## 🚀 **Starten**
 ```
-python3 helga.py
+python3 helga-player.py
 ```
 
 ---
